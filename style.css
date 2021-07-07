@@ -6,10 +6,7 @@ body{
 }
 section{
     display: flex; 
-    margin-top:3%;
-    background-image: url(background/);
-    background-repeat: no-repeat;
-
+    margin-top:100px;
 }
 .half-width{
     width: 59%;
@@ -19,7 +16,7 @@ section{
     width:60%;
     float:right;
     margin-right:26%;
-    margin-top: 20%;
+    margin-top: 30%;
 }
 h1{
     font-size: 45px;
@@ -56,12 +53,28 @@ p{
     margin-left:25px;
     margin-right:25px;
 }
-
 h3{
     color:orangered;
 }
-
 footer{
     text-align: center;
     color:blueviolet;
+}
+.frist{
+    background-image: url(background/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.two{
+    background-image: url(background/food-line-icon-set-plate-260nw-1990818533.jpg);
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+.three{
+    background-image: url(background/top-banner.png);
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    margin-left: 0%;
 }
